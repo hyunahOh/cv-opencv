@@ -1,8 +1,8 @@
 title: Moving # The title of the blog
 author: Hyunah Oh # Your name 
 email: dowkkr94@gmail.com # your email shown in the footer
-url: "http://hyunahoh.github.io" # this is your site's root address.
-baseurl : "/vision-opencv"
+url: "http://hyunahoh.github.io/vision-opencv" # this is your site's root address.
+# baseurl : "/vision-opencv"
 description: > # this means to ignore newlines until "show_excerpts:"
   A clean and minimalist theme for Jekyll.
 favicon: "./favicon.ico" # set the favicon of the site 
