@@ -2,12 +2,12 @@
 title: PRML
 
 email: "swear013@gmail.com"
-url: "http://norman3.github.io"
-github_url: "http://github.com/norman3/prml"
-github_editurl: "/blob/gh-pages"
-github_profile: "http://github.com/norman3"
-baseurl: "/prml"
-disqus_shortname: norman3github
+url: "http://hyunahOh.github.io"
+github_url: "http://github.com/hyunahOh/vision-opencv"
+# github_editurl: "/blob/gh-pages"
+github_profile: "http://github.com/hyunahOh"
+baseurl: "/vision-opencv"
+disqus_shortname: hyunahOh-github
 
 exclude:
   - README.md
@@ -19,3 +19,5 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  
+remote_theme : mmistakes/minimal-mistakes
